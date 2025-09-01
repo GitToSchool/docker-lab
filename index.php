@@ -63,7 +63,7 @@ $result = $conn->query($sql);
           </div>
         </li>
       </ul>
-      <form class="d-flex" data-dashlane-rid="6ea751dd6f6b5b4d">
+<form class="d-flex" data-dashlane-rid="6ea751dd6f6b5b4d">
         <input class="form-control me-sm-2" type="search" placeholder="Search" data-dashlane-rid="6daeec6dfd18bc5f">
         <button class="btn btn-secondary my-2 my-sm-0" type="submit" data-dashlane-label="true" data-dashlane-rid="17d6d162d2cbf1d4">Search</button>
       </form>
@@ -71,6 +71,7 @@ $result = $conn->query($sql);
   </div>
 </nav>
     <div class="container">
+<p>"You may not see a choice, but I make my own fate." "Nobody makes my fate but me."</p>
         <h1 class="mb-4">Users</h1>
         <table class="table table-striped">
             <thead>
